@@ -69,7 +69,8 @@
       {
         "name": "Facebook",
         "description": "CRAM - Eventos Producciones Y Turismo SAS ",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
