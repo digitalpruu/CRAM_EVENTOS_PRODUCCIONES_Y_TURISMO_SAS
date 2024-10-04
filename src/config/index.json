@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Servicios",
-        "description": "En CRAM Eventos, hacemos realidad tus sueños. En CRAM Eventos Producciones y Turismo SAS, nos dedicamos a organizar eventos y actividades turísticas que dejan huella.",
+        "description": "En CRAM Eventos Producciones y Turismo , hacemos realidad tus sueños. Nos dedicamos a organizar eventos y actividades turísticas que dejen huella. Nuestro propósito es recrear espacios que brinden vivencias y experiencias significativas, además  del disfrute del tiempo libre. ",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nos Caracteriza",
-        "description": "Ya sea para celebraciones especiales, eventos corporativos o experiencias turísticas inolvidables, nuestro equipo trabaja con creatividad y profesionalismo para hacer realidad tus sueños. Con nosotros, cada evento se convierte en una experiencia única y memorable.",
+        "description": "¡Recuerda! Si buscas acompañamiento profesional para tus celebraciones especiales, eventos corporativos, escolares o culturales, nuestro equipo trabaja con creatividad y profesionalismo para hacer realidad tus sueños. Con nosotros, cada evento se convierte en una experiencia única y memorable.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@recreandoalmundoco",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/recreandoalmundoco?igsh=MW11dTlmajMzd3owdw=="
       },
       {
         "name": "Facebook",
         "description": "CRAM - Eventos Producciones Y Turismo SAS ",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/recreandoalmundoco?mibextid=ZbWKwL"
       }
     ]
   },
